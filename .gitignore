@@ -1,0 +1,9 @@
+# SQLite database the server creates on startup
+alphaloan.db
+alphaloan.db-journal
+alphaloan.db-wal
+alphaloan.db-shm
+
+# Binaries from `go build` (module root) and `go build server.go`
+/vehicle
+/server
